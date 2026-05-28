@@ -1,16 +1,23 @@
-## Hi there 👋
+Intro
 
-<!--
-**Dharashah99/Dharashah99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Turning data into insights, dashboards into stories, and numbers into decisions.
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a Data Analyst passionate about uncovering trends, solving business problems, and creating impactful dashboards using:
+
+Power BI
+SQL
+Excel
+Python
+Data Visualization
+
+I enjoy working on projects related to:
+
+Sales Analytics
+Customer Insights
+KPI Dashboards
+Business Performance Analysis
+Data Cleaning & Reporting
+
+Currently growing my portfolio with real-world analytics projects and continuously improving my data storytelling skills.
