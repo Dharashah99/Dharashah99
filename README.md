@@ -18,7 +18,9 @@ I’m a Data Analyst passionate about uncovering trends, solving business proble
 
 •	Data Visualization 
 
+
 I enjoy working on projects related to:
+
 
 •	Sales Analytics 
 
@@ -29,6 +31,7 @@ I enjoy working on projects related to:
 •	Business Performance Analysis 
 
 •	Data Cleaning & Reporting 
+
 
 Projects: 
 
@@ -44,7 +47,10 @@ https://github.com/Dharashah99/Adidas-Sales-Analysis-Dashboard 👟 Power BI das
 🌐 Connect With Me
 
 📧 Email: shah.dhara@aol.com 
+
 💼 LinkedIn: www.linkedin.com/in/shah-dhara20 
+
 💻 GitHub Projects: https://github.com/Dharashah99?tab=repositories 
+
 
 Growing my portfolio with real-world analytics projects and continuously improving my data storytelling skills.
