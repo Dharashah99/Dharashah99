@@ -1,13 +1,12 @@
 Hi There, I’m Dhara Shah
 
 Intro
-
 Turning data into insights, dashboards into stories, and numbers into decisions.
 
 
 👨‍💻 About Me:
-
 I’m a Data Analyst passionate about uncovering trends, solving business problems, and creating impactful dashboards using:
+
 
 •	Power BI 
 
