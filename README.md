@@ -10,9 +10,13 @@ Turning data into insights, dashboards into stories, and numbers into decisions.
 I’m a Data Analyst passionate about uncovering trends, solving business problems, and creating impactful dashboards using:
 
 •	Power BI 
+
 •	SQL 
-•	Excel 
+
+•	Excel
+
 •	Python
+
 •	Data Visualization 
 
 
@@ -20,9 +24,13 @@ I enjoy working on projects related to:
 
 
 •	Sales Analytics 
+
 •	Customer Insights
+
 •	KPI Dashboards 
+
 •	Business Performance Analysis 
+
 •	Data Cleaning & Reporting 
 
 
@@ -35,6 +43,7 @@ https://github.com/Dharashah99/Car-Sales-Dashaboard- 🚗 Power BI dashboard ana
 https://github.com/Dharashah99/Uber_Trip_Analysis 🚖 Comprehensive Uber analytics dashboard built in Power BI to track trip trends, booking behavior, and KPI performance.
 
 https://github.com/Dharashah99/Adidas-Sales-Analysis-Dashboard 👟 Power BI dashboard analyzing Adidas sales trends, revenue performance, and regional insights.
+
 
 
 
